@@ -10,9 +10,6 @@ This is a simple web-based calculator application built using Flask. It allows u
 3. Enter the second number in the input field labeled "num2".
 4. Click the "Calculate" button to see the result.
 
-#### Demo Video:
-<video src="https://github.com/MoEssamKhattab/Software-Engineering/assets/95503706/0ca8e040-e1cd-4b1d-b8b0-71e9ae751049">
-
 #### Technologies Used:
 - Python
 - Flask
@@ -28,3 +25,6 @@ This is a simple web-based calculator application built using Flask. It allows u
 #### Notes:
 - Make sure to enter valid numbers for input fields. Non-numeric inputs will result in an error message.
 - Division by zero is handled gracefully, displaying an error message instead of crashing the application.
+
+#### Demo Video:
+<video src="https://github.com/MoEssamKhattab/Software-Engineering/assets/95503706/0ca8e040-e1cd-4b1d-b8b0-71e9ae751049">
