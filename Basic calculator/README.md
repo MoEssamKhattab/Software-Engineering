@@ -11,7 +11,7 @@ This is a simple web-based calculator application built using Flask. It allows u
 4. Click the "Calculate" button to see the result.
 
 #### Demo Video:
-<video src="https://github.com/MoEssamKhattab/Software-Engineering/assets/95503706/0ca8e040-e1cd-4b1d-b8b0-71e9ae751049">
+<video src="https://github.com/MoEssamKhattab/Software-Engineering/assets/95503706/0ca8e040-e1cd-4b1d-b8b0-71e9ae751049"\>
 
 #### Technologies Used:
 - Python
